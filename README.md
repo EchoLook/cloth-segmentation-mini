@@ -116,4 +116,4 @@ This project uses a U2NET model trained for clothing segmentation. The weights w
 
 ## License
 
-[Include appropriate license information] 
+[MIT License](LICENSE)
